@@ -1,7 +1,5 @@
 # Energy-forecasting
-Gemini said
 Weather-Driven Energy Production Forecasting
-A Deep Learning project focused on predicting daily energy production using historical weather variables. This project implements multiple time-series architectures (LSTM, GRU, CNN) to forecast energy output for a 2025 holdout period while maintaining strict data integrity and zero-leakage protocols.
 
 Project Overview
 The goal of this project is to model the relationship between meteorological data (temperature, wind speed, solar radiation) and energy production. By engineering temporal features and leveraging recurrent neural networks, the model provides actionable insights for grid stability and resource allocation.
